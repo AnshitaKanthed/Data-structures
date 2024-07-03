@@ -1,8 +1,6 @@
 // Left Rotate the Array by One
-
 #include <bits/stdc++.h>
 using namespace std;
-
 int solve(int arr[], int n)
 {
     int temp[n];
